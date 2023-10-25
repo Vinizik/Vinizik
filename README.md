@@ -8,7 +8,7 @@
 
 #### What I'm studying 💻
 
-- 📚 I’m currently learning <i><strong>Responsive Web Design</strong></i>
+- 📚 I’m currently learning <i><strong>Front-End Web Development</strong></i>
 - 😄 Pronouns: <i><strong>He/Him</strong></i>
 
 #### How to reach me:
